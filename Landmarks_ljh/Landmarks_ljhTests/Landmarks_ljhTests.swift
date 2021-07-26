@@ -1,14 +1,14 @@
 //
-//  RandomPhotoTests.swift
-//  RandomPhotoTests
+//  Landmarks_ljhTests.swift
+//  Landmarks_ljhTests
 //
-//  Created by Juhyeon Lee on 2021/07/25.
+//  Created by Juhyeon Lee on 2021/07/26.
 //
 
 import XCTest
-@testable import RandomPhoto
+@testable import Landmarks_ljh
 
-class RandomPhotoTests: XCTestCase {
+class Landmarks_ljhTests: XCTestCase {
 
     override func setUpWithError() throws {
         // Put setup code here. This method is called before the invocation of each test method in the class.

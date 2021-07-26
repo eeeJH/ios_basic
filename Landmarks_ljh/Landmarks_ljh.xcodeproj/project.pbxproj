@@ -7,62 +7,62 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		5820E49B26AD56FE00386343 /* basic_leeApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5820E49A26AD56FE00386343 /* basic_leeApp.swift */; };
-		5820E49D26AD56FE00386343 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5820E49C26AD56FE00386343 /* ContentView.swift */; };
-		5820E49F26AD56FF00386343 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5820E49E26AD56FF00386343 /* Assets.xcassets */; };
-		5820E4A226AD56FF00386343 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5820E4A126AD56FF00386343 /* Preview Assets.xcassets */; };
-		5820E4AD26AD56FF00386343 /* basic_leeTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5820E4AC26AD56FF00386343 /* basic_leeTests.swift */; };
-		5820E4B826AD56FF00386343 /* basic_leeUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5820E4B726AD56FF00386343 /* basic_leeUITests.swift */; };
+		5813D2CD26AEC76700A5A479 /* Landmarks_ljhApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5813D2CC26AEC76700A5A479 /* Landmarks_ljhApp.swift */; };
+		5813D2CF26AEC76700A5A479 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5813D2CE26AEC76700A5A479 /* ContentView.swift */; };
+		5813D2D126AEC76800A5A479 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5813D2D026AEC76800A5A479 /* Assets.xcassets */; };
+		5813D2D426AEC76800A5A479 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5813D2D326AEC76800A5A479 /* Preview Assets.xcassets */; };
+		5813D2DF26AEC76800A5A479 /* Landmarks_ljhTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5813D2DE26AEC76800A5A479 /* Landmarks_ljhTests.swift */; };
+		5813D2EA26AEC76800A5A479 /* Landmarks_ljhUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5813D2E926AEC76800A5A479 /* Landmarks_ljhUITests.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
-		5820E4A926AD56FF00386343 /* PBXContainerItemProxy */ = {
+		5813D2DB26AEC76800A5A479 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
-			containerPortal = 5820E48F26AD56FE00386343 /* Project object */;
+			containerPortal = 5813D2C126AEC76700A5A479 /* Project object */;
 			proxyType = 1;
-			remoteGlobalIDString = 5820E49626AD56FE00386343;
-			remoteInfo = basic_lee;
+			remoteGlobalIDString = 5813D2C826AEC76700A5A479;
+			remoteInfo = Landmarks_ljh;
 		};
-		5820E4B426AD56FF00386343 /* PBXContainerItemProxy */ = {
+		5813D2E626AEC76800A5A479 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
-			containerPortal = 5820E48F26AD56FE00386343 /* Project object */;
+			containerPortal = 5813D2C126AEC76700A5A479 /* Project object */;
 			proxyType = 1;
-			remoteGlobalIDString = 5820E49626AD56FE00386343;
-			remoteInfo = basic_lee;
+			remoteGlobalIDString = 5813D2C826AEC76700A5A479;
+			remoteInfo = Landmarks_ljh;
 		};
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		5820E49726AD56FE00386343 /* basic_lee.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = basic_lee.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		5820E49A26AD56FE00386343 /* basic_leeApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = basic_leeApp.swift; sourceTree = "<group>"; };
-		5820E49C26AD56FE00386343 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
-		5820E49E26AD56FF00386343 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		5820E4A126AD56FF00386343 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
-		5820E4A326AD56FF00386343 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		5820E4A826AD56FF00386343 /* basic_leeTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = basic_leeTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
-		5820E4AC26AD56FF00386343 /* basic_leeTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = basic_leeTests.swift; sourceTree = "<group>"; };
-		5820E4AE26AD56FF00386343 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		5820E4B326AD56FF00386343 /* basic_leeUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = basic_leeUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
-		5820E4B726AD56FF00386343 /* basic_leeUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = basic_leeUITests.swift; sourceTree = "<group>"; };
-		5820E4B926AD56FF00386343 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		5813D2C926AEC76700A5A479 /* Landmarks_ljh.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Landmarks_ljh.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		5813D2CC26AEC76700A5A479 /* Landmarks_ljhApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Landmarks_ljhApp.swift; sourceTree = "<group>"; };
+		5813D2CE26AEC76700A5A479 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		5813D2D026AEC76800A5A479 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		5813D2D326AEC76800A5A479 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		5813D2D526AEC76800A5A479 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		5813D2DA26AEC76800A5A479 /* Landmarks_ljhTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = Landmarks_ljhTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		5813D2DE26AEC76800A5A479 /* Landmarks_ljhTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Landmarks_ljhTests.swift; sourceTree = "<group>"; };
+		5813D2E026AEC76800A5A479 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		5813D2E526AEC76800A5A479 /* Landmarks_ljhUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = Landmarks_ljhUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		5813D2E926AEC76800A5A479 /* Landmarks_ljhUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Landmarks_ljhUITests.swift; sourceTree = "<group>"; };
+		5813D2EB26AEC76800A5A479 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		5820E49426AD56FE00386343 /* Frameworks */ = {
+		5813D2C626AEC76700A5A479 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		5820E4A526AD56FF00386343 /* Frameworks */ = {
+		5813D2D726AEC76800A5A479 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		5820E4B026AD56FF00386343 /* Frameworks */ = {
+		5813D2E226AEC76800A5A479 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -72,143 +72,143 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		5820E48E26AD56FE00386343 = {
+		5813D2C026AEC76700A5A479 = {
 			isa = PBXGroup;
 			children = (
-				5820E49926AD56FE00386343 /* basic_lee */,
-				5820E4AB26AD56FF00386343 /* basic_leeTests */,
-				5820E4B626AD56FF00386343 /* basic_leeUITests */,
-				5820E49826AD56FE00386343 /* Products */,
+				5813D2CB26AEC76700A5A479 /* Landmarks_ljh */,
+				5813D2DD26AEC76800A5A479 /* Landmarks_ljhTests */,
+				5813D2E826AEC76800A5A479 /* Landmarks_ljhUITests */,
+				5813D2CA26AEC76700A5A479 /* Products */,
 			);
 			sourceTree = "<group>";
 		};
-		5820E49826AD56FE00386343 /* Products */ = {
+		5813D2CA26AEC76700A5A479 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				5820E49726AD56FE00386343 /* basic_lee.app */,
-				5820E4A826AD56FF00386343 /* basic_leeTests.xctest */,
-				5820E4B326AD56FF00386343 /* basic_leeUITests.xctest */,
+				5813D2C926AEC76700A5A479 /* Landmarks_ljh.app */,
+				5813D2DA26AEC76800A5A479 /* Landmarks_ljhTests.xctest */,
+				5813D2E526AEC76800A5A479 /* Landmarks_ljhUITests.xctest */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		5820E49926AD56FE00386343 /* basic_lee */ = {
+		5813D2CB26AEC76700A5A479 /* Landmarks_ljh */ = {
 			isa = PBXGroup;
 			children = (
-				5820E49A26AD56FE00386343 /* basic_leeApp.swift */,
-				5820E49C26AD56FE00386343 /* ContentView.swift */,
-				5820E49E26AD56FF00386343 /* Assets.xcassets */,
-				5820E4A326AD56FF00386343 /* Info.plist */,
-				5820E4A026AD56FF00386343 /* Preview Content */,
+				5813D2CC26AEC76700A5A479 /* Landmarks_ljhApp.swift */,
+				5813D2CE26AEC76700A5A479 /* ContentView.swift */,
+				5813D2D026AEC76800A5A479 /* Assets.xcassets */,
+				5813D2D526AEC76800A5A479 /* Info.plist */,
+				5813D2D226AEC76800A5A479 /* Preview Content */,
 			);
-			path = basic_lee;
+			path = Landmarks_ljh;
 			sourceTree = "<group>";
 		};
-		5820E4A026AD56FF00386343 /* Preview Content */ = {
+		5813D2D226AEC76800A5A479 /* Preview Content */ = {
 			isa = PBXGroup;
 			children = (
-				5820E4A126AD56FF00386343 /* Preview Assets.xcassets */,
+				5813D2D326AEC76800A5A479 /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
 			sourceTree = "<group>";
 		};
-		5820E4AB26AD56FF00386343 /* basic_leeTests */ = {
+		5813D2DD26AEC76800A5A479 /* Landmarks_ljhTests */ = {
 			isa = PBXGroup;
 			children = (
-				5820E4AC26AD56FF00386343 /* basic_leeTests.swift */,
-				5820E4AE26AD56FF00386343 /* Info.plist */,
+				5813D2DE26AEC76800A5A479 /* Landmarks_ljhTests.swift */,
+				5813D2E026AEC76800A5A479 /* Info.plist */,
 			);
-			path = basic_leeTests;
+			path = Landmarks_ljhTests;
 			sourceTree = "<group>";
 		};
-		5820E4B626AD56FF00386343 /* basic_leeUITests */ = {
+		5813D2E826AEC76800A5A479 /* Landmarks_ljhUITests */ = {
 			isa = PBXGroup;
 			children = (
-				5820E4B726AD56FF00386343 /* basic_leeUITests.swift */,
-				5820E4B926AD56FF00386343 /* Info.plist */,
+				5813D2E926AEC76800A5A479 /* Landmarks_ljhUITests.swift */,
+				5813D2EB26AEC76800A5A479 /* Info.plist */,
 			);
-			path = basic_leeUITests;
+			path = Landmarks_ljhUITests;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		5820E49626AD56FE00386343 /* basic_lee */ = {
+		5813D2C826AEC76700A5A479 /* Landmarks_ljh */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 5820E4BC26AD56FF00386343 /* Build configuration list for PBXNativeTarget "basic_lee" */;
+			buildConfigurationList = 5813D2EE26AEC76800A5A479 /* Build configuration list for PBXNativeTarget "Landmarks_ljh" */;
 			buildPhases = (
-				5820E49326AD56FE00386343 /* Sources */,
-				5820E49426AD56FE00386343 /* Frameworks */,
-				5820E49526AD56FE00386343 /* Resources */,
+				5813D2C526AEC76700A5A479 /* Sources */,
+				5813D2C626AEC76700A5A479 /* Frameworks */,
+				5813D2C726AEC76700A5A479 /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
 			);
-			name = basic_lee;
-			productName = basic_lee;
-			productReference = 5820E49726AD56FE00386343 /* basic_lee.app */;
+			name = Landmarks_ljh;
+			productName = Landmarks_ljh;
+			productReference = 5813D2C926AEC76700A5A479 /* Landmarks_ljh.app */;
 			productType = "com.apple.product-type.application";
 		};
-		5820E4A726AD56FF00386343 /* basic_leeTests */ = {
+		5813D2D926AEC76800A5A479 /* Landmarks_ljhTests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 5820E4BF26AD56FF00386343 /* Build configuration list for PBXNativeTarget "basic_leeTests" */;
+			buildConfigurationList = 5813D2F126AEC76800A5A479 /* Build configuration list for PBXNativeTarget "Landmarks_ljhTests" */;
 			buildPhases = (
-				5820E4A426AD56FF00386343 /* Sources */,
-				5820E4A526AD56FF00386343 /* Frameworks */,
-				5820E4A626AD56FF00386343 /* Resources */,
+				5813D2D626AEC76800A5A479 /* Sources */,
+				5813D2D726AEC76800A5A479 /* Frameworks */,
+				5813D2D826AEC76800A5A479 /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
-				5820E4AA26AD56FF00386343 /* PBXTargetDependency */,
+				5813D2DC26AEC76800A5A479 /* PBXTargetDependency */,
 			);
-			name = basic_leeTests;
-			productName = basic_leeTests;
-			productReference = 5820E4A826AD56FF00386343 /* basic_leeTests.xctest */;
+			name = Landmarks_ljhTests;
+			productName = Landmarks_ljhTests;
+			productReference = 5813D2DA26AEC76800A5A479 /* Landmarks_ljhTests.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
-		5820E4B226AD56FF00386343 /* basic_leeUITests */ = {
+		5813D2E426AEC76800A5A479 /* Landmarks_ljhUITests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 5820E4C226AD56FF00386343 /* Build configuration list for PBXNativeTarget "basic_leeUITests" */;
+			buildConfigurationList = 5813D2F426AEC76800A5A479 /* Build configuration list for PBXNativeTarget "Landmarks_ljhUITests" */;
 			buildPhases = (
-				5820E4AF26AD56FF00386343 /* Sources */,
-				5820E4B026AD56FF00386343 /* Frameworks */,
-				5820E4B126AD56FF00386343 /* Resources */,
+				5813D2E126AEC76800A5A479 /* Sources */,
+				5813D2E226AEC76800A5A479 /* Frameworks */,
+				5813D2E326AEC76800A5A479 /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
-				5820E4B526AD56FF00386343 /* PBXTargetDependency */,
+				5813D2E726AEC76800A5A479 /* PBXTargetDependency */,
 			);
-			name = basic_leeUITests;
-			productName = basic_leeUITests;
-			productReference = 5820E4B326AD56FF00386343 /* basic_leeUITests.xctest */;
+			name = Landmarks_ljhUITests;
+			productName = Landmarks_ljhUITests;
+			productReference = 5813D2E526AEC76800A5A479 /* Landmarks_ljhUITests.xctest */;
 			productType = "com.apple.product-type.bundle.ui-testing";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		5820E48F26AD56FE00386343 /* Project object */ = {
+		5813D2C126AEC76700A5A479 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				LastSwiftUpdateCheck = 1250;
 				LastUpgradeCheck = 1250;
 				TargetAttributes = {
-					5820E49626AD56FE00386343 = {
+					5813D2C826AEC76700A5A479 = {
 						CreatedOnToolsVersion = 12.5.1;
 					};
-					5820E4A726AD56FF00386343 = {
+					5813D2D926AEC76800A5A479 = {
 						CreatedOnToolsVersion = 12.5.1;
-						TestTargetID = 5820E49626AD56FE00386343;
+						TestTargetID = 5813D2C826AEC76700A5A479;
 					};
-					5820E4B226AD56FF00386343 = {
+					5813D2E426AEC76800A5A479 = {
 						CreatedOnToolsVersion = 12.5.1;
-						TestTargetID = 5820E49626AD56FE00386343;
+						TestTargetID = 5813D2C826AEC76700A5A479;
 					};
 				};
 			};
-			buildConfigurationList = 5820E49226AD56FE00386343 /* Build configuration list for PBXProject "basic_lee" */;
+			buildConfigurationList = 5813D2C426AEC76700A5A479 /* Build configuration list for PBXProject "Landmarks_ljh" */;
 			compatibilityVersion = "Xcode 9.3";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -216,36 +216,36 @@
 				en,
 				Base,
 			);
-			mainGroup = 5820E48E26AD56FE00386343;
-			productRefGroup = 5820E49826AD56FE00386343 /* Products */;
+			mainGroup = 5813D2C026AEC76700A5A479;
+			productRefGroup = 5813D2CA26AEC76700A5A479 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				5820E49626AD56FE00386343 /* basic_lee */,
-				5820E4A726AD56FF00386343 /* basic_leeTests */,
-				5820E4B226AD56FF00386343 /* basic_leeUITests */,
+				5813D2C826AEC76700A5A479 /* Landmarks_ljh */,
+				5813D2D926AEC76800A5A479 /* Landmarks_ljhTests */,
+				5813D2E426AEC76800A5A479 /* Landmarks_ljhUITests */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		5820E49526AD56FE00386343 /* Resources */ = {
+		5813D2C726AEC76700A5A479 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				5820E4A226AD56FF00386343 /* Preview Assets.xcassets in Resources */,
-				5820E49F26AD56FF00386343 /* Assets.xcassets in Resources */,
+				5813D2D426AEC76800A5A479 /* Preview Assets.xcassets in Resources */,
+				5813D2D126AEC76800A5A479 /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		5820E4A626AD56FF00386343 /* Resources */ = {
+		5813D2D826AEC76800A5A479 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		5820E4B126AD56FF00386343 /* Resources */ = {
+		5813D2E326AEC76800A5A479 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -255,48 +255,48 @@
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		5820E49326AD56FE00386343 /* Sources */ = {
+		5813D2C526AEC76700A5A479 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				5820E49D26AD56FE00386343 /* ContentView.swift in Sources */,
-				5820E49B26AD56FE00386343 /* basic_leeApp.swift in Sources */,
+				5813D2CF26AEC76700A5A479 /* ContentView.swift in Sources */,
+				5813D2CD26AEC76700A5A479 /* Landmarks_ljhApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		5820E4A426AD56FF00386343 /* Sources */ = {
+		5813D2D626AEC76800A5A479 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				5820E4AD26AD56FF00386343 /* basic_leeTests.swift in Sources */,
+				5813D2DF26AEC76800A5A479 /* Landmarks_ljhTests.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		5820E4AF26AD56FF00386343 /* Sources */ = {
+		5813D2E126AEC76800A5A479 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				5820E4B826AD56FF00386343 /* basic_leeUITests.swift in Sources */,
+				5813D2EA26AEC76800A5A479 /* Landmarks_ljhUITests.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXTargetDependency section */
-		5820E4AA26AD56FF00386343 /* PBXTargetDependency */ = {
+		5813D2DC26AEC76800A5A479 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 5820E49626AD56FE00386343 /* basic_lee */;
-			targetProxy = 5820E4A926AD56FF00386343 /* PBXContainerItemProxy */;
+			target = 5813D2C826AEC76700A5A479 /* Landmarks_ljh */;
+			targetProxy = 5813D2DB26AEC76800A5A479 /* PBXContainerItemProxy */;
 		};
-		5820E4B526AD56FF00386343 /* PBXTargetDependency */ = {
+		5813D2E726AEC76800A5A479 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 5820E49626AD56FE00386343 /* basic_lee */;
-			targetProxy = 5820E4B426AD56FF00386343 /* PBXContainerItemProxy */;
+			target = 5813D2C826AEC76700A5A479 /* Landmarks_ljh */;
+			targetProxy = 5813D2E626AEC76800A5A479 /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
 
 /* Begin XCBuildConfiguration section */
-		5820E4BA26AD56FF00386343 /* Debug */ = {
+		5813D2EC26AEC76800A5A479 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -357,7 +357,7 @@
 			};
 			name = Debug;
 		};
-		5820E4BB26AD56FF00386343 /* Release */ = {
+		5813D2ED26AEC76800A5A479 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -412,168 +412,168 @@
 			};
 			name = Release;
 		};
-		5820E4BD26AD56FF00386343 /* Debug */ = {
+		5813D2EF26AEC76800A5A479 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_ASSET_PATHS = "\"basic_lee/Preview Content\"";
+				DEVELOPMENT_ASSET_PATHS = "\"Landmarks_ljh/Preview Content\"";
 				ENABLE_PREVIEWS = YES;
-				INFOPLIST_FILE = basic_lee/Info.plist;
+				INFOPLIST_FILE = Landmarks_ljh/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 14.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "lee.basic-lee";
+				PRODUCT_BUNDLE_IDENTIFIER = "lee.Landmarks-ljh";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Debug;
 		};
-		5820E4BE26AD56FF00386343 /* Release */ = {
+		5813D2F026AEC76800A5A479 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_ASSET_PATHS = "\"basic_lee/Preview Content\"";
+				DEVELOPMENT_ASSET_PATHS = "\"Landmarks_ljh/Preview Content\"";
 				ENABLE_PREVIEWS = YES;
-				INFOPLIST_FILE = basic_lee/Info.plist;
+				INFOPLIST_FILE = Landmarks_ljh/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 14.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "lee.basic-lee";
+				PRODUCT_BUNDLE_IDENTIFIER = "lee.Landmarks-ljh";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Release;
 		};
-		5820E4C026AD56FF00386343 /* Debug */ = {
+		5813D2F226AEC76800A5A479 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				CODE_SIGN_STYLE = Automatic;
-				INFOPLIST_FILE = basic_leeTests/Info.plist;
+				INFOPLIST_FILE = Landmarks_ljhTests/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 14.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 					"@loader_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "lee.basic-leeTests";
+				PRODUCT_BUNDLE_IDENTIFIER = "lee.Landmarks-ljhTests";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/basic_lee.app/basic_lee";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Landmarks_ljh.app/Landmarks_ljh";
 			};
 			name = Debug;
 		};
-		5820E4C126AD56FF00386343 /* Release */ = {
+		5813D2F326AEC76800A5A479 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				CODE_SIGN_STYLE = Automatic;
-				INFOPLIST_FILE = basic_leeTests/Info.plist;
+				INFOPLIST_FILE = Landmarks_ljhTests/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 14.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 					"@loader_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "lee.basic-leeTests";
+				PRODUCT_BUNDLE_IDENTIFIER = "lee.Landmarks-ljhTests";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/basic_lee.app/basic_lee";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Landmarks_ljh.app/Landmarks_ljh";
 			};
 			name = Release;
 		};
-		5820E4C326AD56FF00386343 /* Debug */ = {
+		5813D2F526AEC76800A5A479 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				CODE_SIGN_STYLE = Automatic;
-				INFOPLIST_FILE = basic_leeUITests/Info.plist;
+				INFOPLIST_FILE = Landmarks_ljhUITests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 					"@loader_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "lee.basic-leeUITests";
+				PRODUCT_BUNDLE_IDENTIFIER = "lee.Landmarks-ljhUITests";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
-				TEST_TARGET_NAME = basic_lee;
+				TEST_TARGET_NAME = Landmarks_ljh;
 			};
 			name = Debug;
 		};
-		5820E4C426AD56FF00386343 /* Release */ = {
+		5813D2F626AEC76800A5A479 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				CODE_SIGN_STYLE = Automatic;
-				INFOPLIST_FILE = basic_leeUITests/Info.plist;
+				INFOPLIST_FILE = Landmarks_ljhUITests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 					"@loader_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "lee.basic-leeUITests";
+				PRODUCT_BUNDLE_IDENTIFIER = "lee.Landmarks-ljhUITests";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
-				TEST_TARGET_NAME = basic_lee;
+				TEST_TARGET_NAME = Landmarks_ljh;
 			};
 			name = Release;
 		};
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		5820E49226AD56FE00386343 /* Build configuration list for PBXProject "basic_lee" */ = {
+		5813D2C426AEC76700A5A479 /* Build configuration list for PBXProject "Landmarks_ljh" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				5820E4BA26AD56FF00386343 /* Debug */,
-				5820E4BB26AD56FF00386343 /* Release */,
+				5813D2EC26AEC76800A5A479 /* Debug */,
+				5813D2ED26AEC76800A5A479 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		5820E4BC26AD56FF00386343 /* Build configuration list for PBXNativeTarget "basic_lee" */ = {
+		5813D2EE26AEC76800A5A479 /* Build configuration list for PBXNativeTarget "Landmarks_ljh" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				5820E4BD26AD56FF00386343 /* Debug */,
-				5820E4BE26AD56FF00386343 /* Release */,
+				5813D2EF26AEC76800A5A479 /* Debug */,
+				5813D2F026AEC76800A5A479 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		5820E4BF26AD56FF00386343 /* Build configuration list for PBXNativeTarget "basic_leeTests" */ = {
+		5813D2F126AEC76800A5A479 /* Build configuration list for PBXNativeTarget "Landmarks_ljhTests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				5820E4C026AD56FF00386343 /* Debug */,
-				5820E4C126AD56FF00386343 /* Release */,
+				5813D2F226AEC76800A5A479 /* Debug */,
+				5813D2F326AEC76800A5A479 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		5820E4C226AD56FF00386343 /* Build configuration list for PBXNativeTarget "basic_leeUITests" */ = {
+		5813D2F426AEC76800A5A479 /* Build configuration list for PBXNativeTarget "Landmarks_ljhUITests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				5820E4C326AD56FF00386343 /* Debug */,
-				5820E4C426AD56FF00386343 /* Release */,
+				5813D2F526AEC76800A5A479 /* Debug */,
+				5813D2F626AEC76800A5A479 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = 5820E48F26AD56FE00386343 /* Project object */;
+	rootObject = 5813D2C126AEC76700A5A479 /* Project object */;
 }

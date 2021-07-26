@@ -1,16 +1,15 @@
 //
 //  ContentView.swift
-//  basic_lee
+//  Landmarks_ljh
 //
-//  Created by Juhyeon Lee on 2021/07/25.
+//  Created by Juhyeon Lee on 2021/07/26.
 //
 
 import SwiftUI
 
 struct ContentView: View {
     var body: some View {
-        Text("Hello, world!")
-            .padding()
+        Text("Turtle Rock").font(.title).foregroundColor(.green)
     }
 }
 
