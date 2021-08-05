@@ -15,6 +15,7 @@
 		5813D2EA26AEC76800A5A479 /* Landmarks_ljhUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5813D2E926AEC76800A5A479 /* Landmarks_ljhUITests.swift */; };
 		581EA56F26BA566A001E8C47 /* CircleImage.swift in Sources */ = {isa = PBXBuildFile; fileRef = 581EA56E26BA566A001E8C47 /* CircleImage.swift */; };
 		581EA57126BA705B001E8C47 /* MapView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 581EA57026BA705B001E8C47 /* MapView.swift */; };
+		586F0AC426BBBA0200B6318A /* Landmark.swift in Sources */ = {isa = PBXBuildFile; fileRef = 586F0AC326BBBA0200B6318A /* Landmark.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		5813D2EB26AEC76800A5A479 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		581EA56E26BA566A001E8C47 /* CircleImage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CircleImage.swift; sourceTree = "<group>"; };
 		581EA57026BA705B001E8C47 /* MapView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MapView.swift; sourceTree = "<group>"; };
+		586F0AC326BBBA0200B6318A /* Landmark.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Landmark.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -101,6 +103,7 @@
 			children = (
 				5813D2CC26AEC76700A5A479 /* Landmarks_ljhApp.swift */,
 				5813D2CE26AEC76700A5A479 /* ContentView.swift */,
+				586F0AC326BBBA0200B6318A /* Landmark.swift */,
 				5813D2D026AEC76800A5A479 /* Assets.xcassets */,
 				581EA56E26BA566A001E8C47 /* CircleImage.swift */,
 				5813D2D526AEC76800A5A479 /* Info.plist */,
@@ -269,6 +272,7 @@
 				581EA57126BA705B001E8C47 /* MapView.swift in Sources */,
 				5813D2CD26AEC76700A5A479 /* Landmarks_ljhApp.swift in Sources */,
 				581EA56F26BA566A001E8C47 /* CircleImage.swift in Sources */,
+				586F0AC426BBBA0200B6318A /* Landmark.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
